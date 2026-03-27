@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trip Manager Pro</string>
+    <string name="vacation_dates">%1$s - %2$s</string>
+    <string name="add_vacation">Add Vacation</string>
+</resources>
